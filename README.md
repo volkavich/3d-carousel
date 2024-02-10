@@ -3,3 +3,7 @@
 REPO LINK: https://xiaxiangfeng.github.io/react-carousel3d/#/carousel
 
 ![result](./src//assests/result.gif)
+
+## Instructions:
+    - npm install
+    - npm start
